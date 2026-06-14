@@ -2,7 +2,7 @@
 import { Routes, Route, Navigate } from "react-router-dom";
 
 // Componentes Públicos / Autenticación
-import Login from "./components/Login"; 
+import Login from "./components/login";
 import Registro from "./components/Registro";
 import OlvideContrasena from "./components/OlvideContrasena";
 import ActualizarContrasena from "./components/ActualizarContrasena";
